@@ -1,0 +1,29 @@
+
+> rua-7-store@1.1.0 test
+> node --test tests/*.test.mjs
+
+✔ catálogo tem os cinco tipos pedidos e seis vistas originais do primeiro tênis (1.185ms)
+✔ compra exige um tamanho válido e respeita estoque agregado entre tamanhos (0.583ms)
+✔ mesmo tamanho é agregado e os valores vêm do catálogo, não do navegador (0.1165ms)
+✔ sacola inválida e indisponibilidades não viram um pedido (0.4473ms)
+✔ dados persistidos adulterados não excedem estoque total do produto (0.0817ms)
+✔ pedido demonstrativo não guarda dados pessoais nem alega pagamento (2.5028ms)
+✔ editor rejeita links executáveis, preço negativo e tamanhos ausentes (0.2113ms)
+✔ solicitação produz rascunho limitado e codifica corpo sem injetar cabeçalhos (0.6918ms)
+✔ arquivo de regras pode ser lido como JSON e bloqueia escrita anônima na raiz (2.9637ms)
+✔ cadastro rejeita textos e URLs além dos limites do banco (1.1649ms)
+✔ resumo malformado ou adulterado não chega à interface (0.2446ms)
+✔ armazenamento indisponível, corrompido ou excessivo tem fallback seguro (0.6918ms)
+✔ limpeza LGPD apaga apenas as chaves da loja (0.1536ms)
+✔ admin exige claim booleana e e-mail confirmado (0.0817ms)
+✔ modelo original é GLB 2 íntegro e autocontido, sem fotos nem fontes remotas (0.5487ms)
+✔ geometria tem volume, normais e orçamento limitado para celular (0.1427ms)
+✔ links antigos encontram conceito original e produto sem modelo mantém fallback (0.0805ms)
+ℹ tests 17
+ℹ suites 0
+ℹ pass 17
+ℹ fail 0
+ℹ cancelled 0
+ℹ skipped 0
+ℹ todo 0
+ℹ duration_ms 70.4883

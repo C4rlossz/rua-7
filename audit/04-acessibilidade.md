@@ -1,0 +1,13 @@
+# E — Acessibilidade
+
+Referência: [WCAG 2.2, objetivo AA](https://www.w3.org/TR/WCAG22/). Ferramentas: axe-core 4.14 e Lighthouse 13.6 no Chromium do ambiente local. Resultados individuais em evidence/axe-*.json; métricas finais em 06-testes.md. **Não há certificação de conformidade integral.**
+
+Baseline: contraste insuficiente em busca, legenda e placeholders, salto de título e região fora de landmark. Lighthouse também revelou incompatibilidade entre texto visível e nome acessível e alvos pequenos no rodapé móvel. CORRIGIDO: contraste, ordem de títulos, região identificada, nomes preservando o texto visível, separação de textos no SVG, links do rodapé com altura adequada e rótulo explícito da senha.
+
+Animações: faixa com pausa, preferência do sistema respeitada, modelo inicia sem giro automático; botões alternativos a arrastar/pinçar, galeria de imagens e status de carregamento. A revisão considera 2.2.2 e 2.3.3 como orientação de movimento, sem tratar automaticamente toda animação como falha AA. Formulários têm labels, limites, mensagens e controle pelo visitante; rascunho informa que nada foi enviado.
+
+Manual executado: busca abre com foco no campo; Shift+Tab alcança Fechar; Escape fecha e devolve foco à busca. Produto sem tamanho bloqueia compra e direciona foco à seleção. Seleção conduz ao checkout. Galeria e controles de giro/zoom/restauração funcionaram na prévia. Fluxo com exemplo fictício concluiu sem pagamento. Reflow em viewport nominal 320 px: largura útil e documento 305 px, sem transbordamento horizontal observado na home, produto e direitos. Prévia em 390 e 1440 px também inspecionada. Capturas finais em qa/.
+
+Automação: casos de home, produto, login, login administrativo, direitos e páginas de políticas foram medidos; o relatório deve ser lido por estado e viewport, não como cobertura de todos os estados. A suíte foi ampliada para incluir WCAG 2.1 A após Lighthouse apontar rótulos; o resultado de zero ocorrências no escopo anterior não abrangia esse teste. Achados foram corrigidos e casos afetados repetidos. Itens `incomplete` exigem análise manual e não são aprovações automáticas.
+
+NÃO VERIFICADO: leitor de tela real (NVDA, VoiceOver e TalkBack), navegação completa sem visão, zoom de texto 200% no navegador, todos os modais/estados, contraste de cada pixel em imagens e testes físicos de pinça/toque. Redução de movimento foi revisada no código, sem simulação completa de todos os sistemas. Esses limites devem ser resolvidos conforme o público e risco antes de uma alegação WCAG AA. Canal acessível disponível em /acessibilidade, sem coleta obrigatória de dados de saúde.

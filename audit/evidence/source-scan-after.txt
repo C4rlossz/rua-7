@@ -1,0 +1,5 @@
+
+> rua-7-store@1.1.0 audit:source
+> node scripts/audit-snapshot.mjs after --strict
+
+{"phase":"after","commit":"b696f51aed0bc82cf9e95b6cca29948128123498","files":90,"installedDependencies":410,"unknownLicenses":[],"secretFindings":0,"historyTextBlobs":41}

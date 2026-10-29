@@ -1,0 +1,8 @@
+import * as T from 'three';
+import { GLTFLoader } from 'three/addons/loaders/GLTFLoader.js';
+const scene=new T.Scene();scene.background=new T.Color('#f4f4f4');
+const renderer=new T.WebGLRenderer({antialias:true,preserveDrawingBuffer:true});renderer.setSize(innerWidth,innerHeight);renderer.setPixelRatio(1);renderer.outputColorSpace=T.SRGBColorSpace;renderer.toneMapping=T.ACESFilmicToneMapping;renderer.shadowMap.enabled=true;renderer.shadowMap.type=T.PCFSoftShadowMap;document.body.append(renderer.domElement);
+const camera=new T.PerspectiveCamera(35,innerWidth/innerHeight,.1,50),views={side:[0,1.4,6.4],pair:[-3.6,2.6,5.6],inner:[0,1.6,-6.4],rear:[6,1.7,0],top:[0,7,.01],sole:[0,-7,.01]};
+const view=new URLSearchParams(location.search).get('view')||'side';camera.position.set(...(views[view]||views.side));camera.lookAt(0,0,0);
+scene.add(new T.AmbientLight(0xffffff,1.5));for(const [p,intensity]of [[[-3,6,5],3],[[4,3,-4],1]]){const l=new T.DirectionalLight(0xffffff,intensity);l.position.set(...p);l.castShadow=true;l.shadow.mapSize.set(1024,1024);scene.add(l);}
+new GLTFLoader().load('/models/rua7-movimento-v2.glb',g=>{const box=new T.Box3().setFromObject(g.scene),center=box.getCenter(new T.Vector3());g.scene.position.sub(center);g.scene.traverse(o=>{if(o.isMesh)o.castShadow=true;});scene.add(g.scene);if(view!=='sole'){const floor=new T.Mesh(new T.PlaneGeometry(15,15),new T.ShadowMaterial({opacity:.045}));floor.rotation.x=-Math.PI/2;floor.position.y=box.min.y-center.y-.02;floor.receiveShadow=true;scene.add(floor);}renderer.render(scene,camera);document.getElementById('status').textContent='';document.body.dataset.ready='true';document.body.dataset.view=view;},undefined,()=>{document.getElementById('status').textContent='Falha ao carregar modelo';});

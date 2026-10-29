@@ -1,0 +1,19 @@
+{
+    "scope":  "Local production preview, not remote hosting",
+    "status":  200,
+    "url":  "http://127.0.0.1:4173/",
+    "headers":  {
+                    "Vary":  "Origin",
+                    "Content-Security-Policy":  "default-src \u0027self\u0027; script-src \u0027self\u0027; style-src \u0027self\u0027 \u0027unsafe-inline\u0027; font-src \u0027self\u0027; img-src \u0027self\u0027 data: blob:; connect-src \u0027self\u0027 https://identitytoolkit.googleapis.com https://securetoken.googleapis.com https://*.firebaseio.com wss://*.firebaseio.com https://*.firebasedatabase.app wss://*.firebasedatabase.app; object-src \u0027none\u0027; base-uri \u0027self\u0027; form-action \u0027self\u0027; frame-ancestors \u0027self\u0027 https://chatgpt.com https://*.chatgpt.com",
+                    "X-Content-Type-Options":  "nosniff",
+                    "Referrer-Policy":  "no-referrer",
+                    "Permissions-Policy":  "camera=(), microphone=(), geolocation=(), payment=()",
+                    "Connection":  "keep-alive",
+                    "Keep-Alive":  "timeout=5",
+                    "Content-Length":  "1103",
+                    "Cache-Control":  "no-cache",
+                    "Content-Type":  "text/html",
+                    "Date":  "Tue, 27 Oct 2026 23:14:33 GMT",
+                    "ETag":  "W/\"44f-qx5DyVtw7e7OnU/XKvWxG5Klgwo\""
+                }
+}

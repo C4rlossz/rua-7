@@ -1,0 +1,70 @@
+{
+  "rules": {
+    ".read": false,
+    ".write": false,
+    "products": {
+      ".read": true,
+      "$id": {
+        ".write": "auth != null && auth.token.admin === true && auth.token.email_verified === true && newData.exists()",
+        ".validate": "newData.hasChildren(['id', 'name', 'category', 'price', 'sizes', 'stock']) && newData.child('id').val() === $id",
+        "id": {
+          ".validate": "newData.isString() && newData.val().matches(/^[a-z0-9-]{1,80}$/)"
+        },
+        "name": {
+          ".validate": "newData.isString() && newData.val().length > 1 && newData.val().length <= 120"
+        },
+        "category": {
+          ".validate": "newData.val() === 'Tênis' || newData.val() === 'Roupas' || newData.val() === 'Acessórios'"
+        },
+        "price": {
+          ".validate": "newData.isNumber() && newData.val() > 0 && newData.val() <= 100000000 && newData.val() % 1 === 0"
+        },
+        "stock": {
+          ".validate": "newData.isNumber() && newData.val() >= 0 && newData.val() <= 10000 && newData.val() % 1 === 0"
+        },
+        "sizes": {
+          ".validate": "newData.hasChildren() && newData.numChildren() <= 30",
+          "$index": {
+            ".validate": "$index.matches(/^[0-9]+$/) && newData.isString() && newData.val().length > 0 && newData.val().length <= 20"
+          }
+        },
+        "images": {
+          ".validate": "newData.hasChildren() && newData.numChildren() <= 36",
+          "$index": {
+            ".validate": "$index.matches(/^[0-9]+$/) && newData.isString() && newData.val().length <= 2048 && newData.val().matches(/^\\/images\\/[a-zA-Z0-9_-]+\\.(png|jpg|jpeg|webp|avif|svg)$/)"
+          }
+        },
+        "image": {
+          ".validate": "newData.val() === '' || (newData.isString() && newData.val().length <= 2048 && newData.val().matches(/^\\/images\\/[a-zA-Z0-9_-]+\\.(png|jpg|jpeg|webp|avif|svg)$/))"
+        },
+        "modelUrl": {
+          ".validate": "newData.isString() && newData.val().length <= 2048 && (newData.val() === '' || newData.val().matches(/^\\/models\\/[a-zA-Z0-9_-]+\\.glb$/))"
+        },
+        "description": {
+          ".validate": "newData.isString() && newData.val().length <= 2500"
+        },
+        "subtitle": {
+          ".validate": "newData.isString() && newData.val().length <= 150"
+        },
+        "color": {
+          ".validate": "newData.isString() && newData.val().length <= 100"
+        },
+        "badge": {
+          ".validate": "newData.isString() && newData.val().length <= 40"
+        },
+        "type": {
+          ".validate": "newData.val() === 'hoodie' || newData.val() === 'pants' || newData.val() === 'cap'"
+        },
+        "provisional": {
+          ".validate": "newData.isBoolean()"
+        },
+        "placeholder": {
+          ".validate": "newData.isBoolean()"
+        },
+        "$other": {
+          ".validate": false
+        }
+      }
+    }
+  }
+}

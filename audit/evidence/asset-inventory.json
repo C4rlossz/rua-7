@@ -1,0 +1,266 @@
+[
+  {
+    "file": "public/favicon.svg",
+    "bytes": 238,
+    "sha256": "347eb3b1daee957d7e2e4dacb6b9981259fe496c6bb1400765e11e461e8c59ba",
+    "origin": "Vetor local, ver ASSETS.md",
+    "licenseEvidence": "ASSETS.md e dependency-licenses.json",
+    "status": "APROVADO no escopo de origem local identificada"
+  },
+  {
+    "file": "public/images/campaign-mobile.jpg",
+    "bytes": 64084,
+    "sha256": "fe88df90f1659f0c7454a1973c267218607afd283aafa8ea317f869da91323a9",
+    "origin": "IA anterior, ver ASSETS.md",
+    "licenseEvidence": "ASSETS.md e dependency-licenses.json",
+    "status": "PENDENTE — revisão humana de IA/marca"
+  },
+  {
+    "file": "public/images/campaign-optimized.jpg",
+    "bytes": 255787,
+    "sha256": "3a22ac24cee33133b6854b4ed8d020d44c1eddf6388798b6270d950b7fb02f82",
+    "origin": "IA anterior, ver ASSETS.md",
+    "licenseEvidence": "ASSETS.md e dependency-licenses.json",
+    "status": "PENDENTE — revisão humana de IA/marca"
+  },
+  {
+    "file": "public/images/campaign.png",
+    "bytes": 2404060,
+    "sha256": "c5cd24270bee87c47c5a74c4a4da8f798b2fc27523165190e7d4ac78aa8fa370",
+    "origin": "IA anterior, ver ASSETS.md",
+    "licenseEvidence": "ASSETS.md e dependency-licenses.json",
+    "status": "PENDENTE — revisão humana de IA/marca"
+  },
+  {
+    "file": "public/images/logo-optimized.png",
+    "bytes": 31354,
+    "sha256": "e53bd23ff143825dc24548122398f55be0d1ce49117c3ddd256007378c8843b1",
+    "origin": "IA anterior, ver ASSETS.md",
+    "licenseEvidence": "ASSETS.md e dependency-licenses.json",
+    "status": "PENDENTE — revisão humana de IA/marca"
+  },
+  {
+    "file": "public/images/logo.png",
+    "bytes": 648390,
+    "sha256": "6be55c3adc78ad1df4735d3bf37b677ab44572fd9e9725ac7f8689483b8fd91c",
+    "origin": "IA anterior, ver ASSETS.md",
+    "licenseEvidence": "ASSETS.md e dependency-licenses.json",
+    "status": "PENDENTE — revisão humana de IA/marca"
+  },
+  {
+    "file": "public/images/rua7-movimento-0.png",
+    "bytes": 21558,
+    "sha256": "43d2ffb2ed9440d95e25b5f0b61f13ddb2506796cbab4e1d8f6396abc3e89703",
+    "origin": "Geometria/renderização original nesta auditoria",
+    "licenseEvidence": "ASSETS.md e dependency-licenses.json",
+    "status": "APROVADO no escopo de origem local identificada"
+  },
+  {
+    "file": "public/images/rua7-movimento-1.png",
+    "bytes": 20153,
+    "sha256": "fafef4b48a05281229a660538d935d50a7d59ade7baa050e1a5e6b0667a7044e",
+    "origin": "Geometria/renderização original nesta auditoria",
+    "licenseEvidence": "ASSETS.md e dependency-licenses.json",
+    "status": "APROVADO no escopo de origem local identificada"
+  },
+  {
+    "file": "public/images/rua7-movimento-2.png",
+    "bytes": 21633,
+    "sha256": "edd118fbca59aa84c869c22be6c2785d0d32c1871b00d666ea288e36c78e5e85",
+    "origin": "Geometria/renderização original nesta auditoria",
+    "licenseEvidence": "ASSETS.md e dependency-licenses.json",
+    "status": "APROVADO no escopo de origem local identificada"
+  },
+  {
+    "file": "public/images/rua7-movimento-3.png",
+    "bytes": 15356,
+    "sha256": "c7fb0421ef549c912e9cd00ff9735284f026e79cdfffb9cf0c1ef6645f5b314d",
+    "origin": "Geometria/renderização original nesta auditoria",
+    "licenseEvidence": "ASSETS.md e dependency-licenses.json",
+    "status": "APROVADO no escopo de origem local identificada"
+  },
+  {
+    "file": "public/images/rua7-movimento-4.png",
+    "bytes": 24234,
+    "sha256": "25a8a8efa66c2a1276c569db5af0318813ec4373774e82c5c85158bc8d89fbf6",
+    "origin": "Geometria/renderização original nesta auditoria",
+    "licenseEvidence": "ASSETS.md e dependency-licenses.json",
+    "status": "APROVADO no escopo de origem local identificada"
+  },
+  {
+    "file": "public/images/rua7-movimento-5.png",
+    "bytes": 15928,
+    "sha256": "3515210fff59167ef8002f275550d40f784c613ef85e7983296d99cd79fd69dd",
+    "origin": "Geometria/renderização original nesta auditoria",
+    "licenseEvidence": "ASSETS.md e dependency-licenses.json",
+    "status": "APROVADO no escopo de origem local identificada"
+  },
+  {
+    "file": "public/models/rua7-movimento-v2.glb",
+    "bytes": 2021640,
+    "sha256": "f7d3399312e388c2e0949a64d326e9acfd5d7e6147a362a3fcfad3ebb4b130c3",
+    "origin": "Geometria/renderização original nesta auditoria",
+    "licenseEvidence": "ASSETS.md e dependency-licenses.json",
+    "status": "APROVADO no escopo de origem local identificada"
+  },
+  {
+    "file": "dist/assets/barlow-condensed-latin-500-normal-BgYH2mbd.woff2",
+    "bytes": 21424,
+    "sha256": "460f141ec8f6c9a1516bfd2bd9fe71656246d7a9d04a0955faf53158d8970c4c",
+    "origin": "Fontsource local, SIL OFL-1.1",
+    "licenseEvidence": "ASSETS.md e dependency-licenses.json",
+    "status": "APROVADO no escopo de origem local identificada"
+  },
+  {
+    "file": "dist/assets/barlow-condensed-latin-500-normal-HIEiP5Ov.woff",
+    "bytes": 18600,
+    "sha256": "a5c197a36d650b8bd6b153976aeb31f1ddd9e75f75e4165a6f3eb1e25f50ada6",
+    "origin": "Fontsource local, SIL OFL-1.1",
+    "licenseEvidence": "ASSETS.md e dependency-licenses.json",
+    "status": "APROVADO no escopo de origem local identificada"
+  },
+  {
+    "file": "dist/assets/barlow-condensed-latin-600-normal-BFJEwTuo.woff",
+    "bytes": 18892,
+    "sha256": "02e9d2ca2e9af5d8dbdfd30c4a5aa59632205901e9045140b559a44d361d8a46",
+    "origin": "Fontsource local, SIL OFL-1.1",
+    "licenseEvidence": "ASSETS.md e dependency-licenses.json",
+    "status": "APROVADO no escopo de origem local identificada"
+  },
+  {
+    "file": "dist/assets/barlow-condensed-latin-600-normal-DepVgxBB.woff2",
+    "bytes": 22308,
+    "sha256": "215a93c696f442034a46fbb382958f753fda60e30490683aeea6b235fcbb2b66",
+    "origin": "Fontsource local, SIL OFL-1.1",
+    "licenseEvidence": "ASSETS.md e dependency-licenses.json",
+    "status": "APROVADO no escopo de origem local identificada"
+  },
+  {
+    "file": "dist/assets/barlow-condensed-latin-700-normal-Dmwat-ge.woff",
+    "bytes": 18824,
+    "sha256": "bd414ee6698edb13ec58b3084b68c1804eeb55acb6b65f628822320dcd1e5431",
+    "origin": "Fontsource local, SIL OFL-1.1",
+    "licenseEvidence": "ASSETS.md e dependency-licenses.json",
+    "status": "APROVADO no escopo de origem local identificada"
+  },
+  {
+    "file": "dist/assets/barlow-condensed-latin-700-normal-v1xN8_Wq.woff2",
+    "bytes": 22444,
+    "sha256": "3787a5a419171630e6890cfa47c4da067474d005cd0ff8dc11ec090fdc3ee2b8",
+    "origin": "Fontsource local, SIL OFL-1.1",
+    "licenseEvidence": "ASSETS.md e dependency-licenses.json",
+    "status": "APROVADO no escopo de origem local identificada"
+  },
+  {
+    "file": "dist/assets/barlow-condensed-latin-800-normal-BKzMuPgK.woff2",
+    "bytes": 22464,
+    "sha256": "2515494e8cc2ca07c86ea78766cfa104b796aa6ed5d66821c01d51dbb0b52bce",
+    "origin": "Fontsource local, SIL OFL-1.1",
+    "licenseEvidence": "ASSETS.md e dependency-licenses.json",
+    "status": "APROVADO no escopo de origem local identificada"
+  },
+  {
+    "file": "dist/assets/barlow-condensed-latin-800-normal-e9GbPXiK.woff",
+    "bytes": 18724,
+    "sha256": "8ac1acb3ce8849a2fb0160f778099fc48a440d4f50b6121cd66e628816c2fb2b",
+    "origin": "Fontsource local, SIL OFL-1.1",
+    "licenseEvidence": "ASSETS.md e dependency-licenses.json",
+    "status": "APROVADO no escopo de origem local identificada"
+  },
+  {
+    "file": "dist/assets/barlow-condensed-latin-900-normal-Bz1RFETY.woff",
+    "bytes": 17720,
+    "sha256": "bb2719be3327a19413573903e43e11e493b865b6bebdaee3e5ece9ee89aa2d02",
+    "origin": "Fontsource local, SIL OFL-1.1",
+    "licenseEvidence": "ASSETS.md e dependency-licenses.json",
+    "status": "APROVADO no escopo de origem local identificada"
+  },
+  {
+    "file": "dist/assets/barlow-condensed-latin-900-normal-SFh9ViAc.woff2",
+    "bytes": 21968,
+    "sha256": "aa01966de3f608a765a172237a3ffc6161fe4c7e3870b1a904dc6437e54c4e24",
+    "origin": "Fontsource local, SIL OFL-1.1",
+    "licenseEvidence": "ASSETS.md e dependency-licenses.json",
+    "status": "APROVADO no escopo de origem local identificada"
+  },
+  {
+    "file": "dist/assets/inter-latin-400-normal-C38fXH4l.woff2",
+    "bytes": 23664,
+    "sha256": "8909904ab6c872eb994093482a88a28eca2cd95912d7b6fecd72103b0dc07edc",
+    "origin": "Fontsource local, SIL OFL-1.1",
+    "licenseEvidence": "ASSETS.md e dependency-licenses.json",
+    "status": "APROVADO no escopo de origem local identificada"
+  },
+  {
+    "file": "dist/assets/inter-latin-400-normal-CyCys3Eg.woff",
+    "bytes": 30696,
+    "sha256": "e20fa0b4fd2dd26e4d14b3ac3cc922509c3a63fa5e910e90c614544aa042dd45",
+    "origin": "Fontsource local, SIL OFL-1.1",
+    "licenseEvidence": "ASSETS.md e dependency-licenses.json",
+    "status": "APROVADO no escopo de origem local identificada"
+  },
+  {
+    "file": "dist/assets/inter-latin-500-normal-BL9OpVg8.woff",
+    "bytes": 31284,
+    "sha256": "9b42c108da48b5ed55a3072e815ffee2d271562e6c0dd6998910e8f9c09e0a3d",
+    "origin": "Fontsource local, SIL OFL-1.1",
+    "licenseEvidence": "ASSETS.md e dependency-licenses.json",
+    "status": "APROVADO no escopo de origem local identificada"
+  },
+  {
+    "file": "dist/assets/inter-latin-500-normal-Cerq10X2.woff2",
+    "bytes": 24272,
+    "sha256": "f3779f1efccc4bdcdf9c0a02ab95bf6bd092ed09c48c08cedc725889edd1d19f",
+    "origin": "Fontsource local, SIL OFL-1.1",
+    "licenseEvidence": "ASSETS.md e dependency-licenses.json",
+    "status": "APROVADO no escopo de origem local identificada"
+  },
+  {
+    "file": "dist/assets/inter-latin-600-normal-CiBQ2DWP.woff",
+    "bytes": 31260,
+    "sha256": "6a9cb3a509b4eeaf12b7dda6c4aacac3e85d07f4201bf4dd716e332e692b87bd",
+    "origin": "Fontsource local, SIL OFL-1.1",
+    "licenseEvidence": "ASSETS.md e dependency-licenses.json",
+    "status": "APROVADO no escopo de origem local identificada"
+  },
+  {
+    "file": "dist/assets/inter-latin-600-normal-LgqL8muc.woff2",
+    "bytes": 24452,
+    "sha256": "f9a06e79cd3a2a20951c0f0e28f66dd0e6d3fda73911d640a2125c8fcb78f21a",
+    "origin": "Fontsource local, SIL OFL-1.1",
+    "licenseEvidence": "ASSETS.md e dependency-licenses.json",
+    "status": "APROVADO no escopo de origem local identificada"
+  },
+  {
+    "file": "dist/assets/inter-latin-700-normal-BLAVimhd.woff",
+    "bytes": 31320,
+    "sha256": "7c5ed5655730de337704d3fc94628515cd7e3d8d32368871709bf56ac0397e7a",
+    "origin": "Fontsource local, SIL OFL-1.1",
+    "licenseEvidence": "ASSETS.md e dependency-licenses.json",
+    "status": "APROVADO no escopo de origem local identificada"
+  },
+  {
+    "file": "dist/assets/inter-latin-700-normal-Yt3aPRUw.woff2",
+    "bytes": 24356,
+    "sha256": "6f56409fd3d64bb85f7d070bce20749db2d66b6d63cec586cc22d1c761be2491",
+    "origin": "Fontsource local, SIL OFL-1.1",
+    "licenseEvidence": "ASSETS.md e dependency-licenses.json",
+    "status": "APROVADO no escopo de origem local identificada"
+  },
+  {
+    "file": "dist/assets/inter-latin-800-normal-BYj_oED-.woff2",
+    "bytes": 24400,
+    "sha256": "a7d0a50f15d389cad679238466bdb5fc9787aa0715719064ce25abaff042820d",
+    "origin": "Fontsource local, SIL OFL-1.1",
+    "licenseEvidence": "ASSETS.md e dependency-licenses.json",
+    "status": "APROVADO no escopo de origem local identificada"
+  },
+  {
+    "file": "dist/assets/inter-latin-800-normal-D1mf63XC.woff",
+    "bytes": 31296,
+    "sha256": "a2fdc5be8acd75fe8f3fd9de8179828d04fd884c155cd6b63fec23b33651ec88",
+    "origin": "Fontsource local, SIL OFL-1.1",
+    "licenseEvidence": "ASSETS.md e dependency-licenses.json",
+    "status": "APROVADO no escopo de origem local identificada"
+  }
+]

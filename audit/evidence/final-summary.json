@@ -1,0 +1,231 @@
+{
+  "date": "2026-10-27T23:20:35.600Z",
+  "metrics": [
+    {
+      "mode": "Desenvolvimento antes",
+      "file": "lighthouse-before.json",
+      "date": "2026-10-27T21:51:23.578Z",
+      "url": "http://127.0.0.1:5173/",
+      "scores": {
+        "performance": 60,
+        "accessibility": 91,
+        "best-practices": 100,
+        "seo": 92
+      },
+      "LCP": 40771.269749999985,
+      "TBT": 280,
+      "CLS": 0,
+      "formFactor": "mobile",
+      "throttling": "simulate"
+    },
+    {
+      "mode": "Desenvolvimento depois",
+      "file": "lighthouse-after.json",
+      "date": "2026-10-27T23:16:09.597Z",
+      "url": "http://127.0.0.1:5173/",
+      "scores": {
+        "performance": 65,
+        "accessibility": 100,
+        "best-practices": 100,
+        "seo": 66
+      },
+      "LCP": 23626.864200000004,
+      "TBT": 130.5,
+      "CLS": 0.00003881759987298482,
+      "formFactor": "mobile",
+      "throttling": "simulate"
+    },
+    {
+      "mode": "Preview de produção depois",
+      "file": "lighthouse-production.json",
+      "date": "2026-10-27T23:14:25.053Z",
+      "url": "http://127.0.0.1:4173/",
+      "scores": {
+        "performance": 84,
+        "accessibility": 100,
+        "best-practices": 100,
+        "seo": 66
+      },
+      "LCP": 4510.22895,
+      "TBT": 12,
+      "CLS": 0.00003881759987298482,
+      "formFactor": "mobile",
+      "throttling": "simulate"
+    }
+  ],
+  "axe": [
+    {
+      "file": "axe-home-mobile-after.json",
+      "url": "/",
+      "date": "2026-10-27T23:07:54.758Z",
+      "violations": [],
+      "manualChecks": 1
+    },
+    {
+      "file": "axe-product-mobile-after.json",
+      "url": "/produto/tenis-floral",
+      "date": "2026-10-27T23:08:03.975Z",
+      "violations": [],
+      "manualChecks": 2
+    },
+    {
+      "file": "axe-product-3d-after.json",
+      "url": "/produto/tenis-floral",
+      "date": "2026-10-27T23:17:01.594Z",
+      "violations": [],
+      "manualChecks": 2
+    },
+    {
+      "file": "axe-login-mobile-after.json",
+      "url": "/login",
+      "date": "2026-10-27T23:06:38.984Z",
+      "violations": [],
+      "manualChecks": 1
+    },
+    {
+      "file": "axe-admin-login-after.json",
+      "url": "/admin/login",
+      "date": "2026-10-27T22:14:16.319Z",
+      "violations": [],
+      "manualChecks": 1
+    },
+    {
+      "file": "axe-rights-mobile-after.json",
+      "url": "/direitos",
+      "date": "2026-10-27T23:06:39.856Z",
+      "violations": [],
+      "manualChecks": 0
+    },
+    {
+      "file": "axe-privacidade-after.json",
+      "url": "/privacidade",
+      "date": "2026-10-27T23:05:57.037Z",
+      "violations": [],
+      "manualChecks": 0
+    },
+    {
+      "file": "axe-termos-after.json",
+      "url": "/termos",
+      "date": "2026-10-27T23:05:57.841Z",
+      "violations": [],
+      "manualChecks": 0
+    },
+    {
+      "file": "axe-cookies-after.json",
+      "url": "/cookies",
+      "date": "2026-10-27T23:05:58.691Z",
+      "violations": [],
+      "manualChecks": 0
+    },
+    {
+      "file": "axe-acessibilidade-after.json",
+      "url": "/acessibilidade",
+      "date": "2026-10-27T23:05:59.511Z",
+      "violations": [],
+      "manualChecks": 0
+    },
+    {
+      "file": "axe-atendimento-after.json",
+      "url": "/atendimento",
+      "date": "2026-10-27T23:06:00.426Z",
+      "violations": [],
+      "manualChecks": 0
+    },
+    {
+      "file": "axe-checkout-after.json",
+      "url": "/checkout",
+      "date": "2026-10-27T23:17:34.078Z",
+      "violations": [],
+      "manualChecks": 1
+    },
+    {
+      "file": "axe-admin-catalog-after.json",
+      "url": "/admin",
+      "date": "2026-10-27T23:17:35.200Z",
+      "violations": [],
+      "manualChecks": 1
+    }
+  ],
+  "http": [
+    {
+      "route": "/",
+      "status": 200,
+      "type": "text/html"
+    },
+    {
+      "route": "/colecao",
+      "status": 200,
+      "type": "text/html"
+    },
+    {
+      "route": "/produto/tenis-floral",
+      "status": 200,
+      "type": "text/html"
+    },
+    {
+      "route": "/login",
+      "status": 200,
+      "type": "text/html"
+    },
+    {
+      "route": "/admin/login",
+      "status": 200,
+      "type": "text/html"
+    },
+    {
+      "route": "/privacidade",
+      "status": 200,
+      "type": "text/html"
+    },
+    {
+      "route": "/termos",
+      "status": 200,
+      "type": "text/html"
+    },
+    {
+      "route": "/cookies",
+      "status": 200,
+      "type": "text/html"
+    },
+    {
+      "route": "/direitos",
+      "status": 200,
+      "type": "text/html"
+    },
+    {
+      "route": "/acessibilidade",
+      "status": 200,
+      "type": "text/html"
+    },
+    {
+      "route": "/atendimento",
+      "status": 200,
+      "type": "text/html"
+    },
+    {
+      "route": "/images/rua7-movimento-0.png",
+      "status": 200,
+      "type": "image/png"
+    },
+    {
+      "route": "/images/campaign-mobile.jpg",
+      "status": 200,
+      "type": "image/jpeg"
+    },
+    {
+      "route": "/models/rua7-movimento-v2.glb",
+      "status": 200,
+      "type": "model/gltf-binary"
+    },
+    {
+      "route": "/third-party-notices.txt",
+      "status": 200,
+      "type": "text/plain"
+    },
+    {
+      "route": "/robots.txt",
+      "status": 200,
+      "type": "text/plain"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+    "firebaseActiveProject":  null,
+    "toolScope":  "Firebase tool reported no authenticated user or active project; local firebase.json is in rua-7-site subfolder",
+    "realAuthTested":  false,
+    "javaAvailable":  false,
+    "date":  "2026-10-27",
+    "firebaseAuthenticatedUser":  null,
+    "rulesEmulatorTested":  false
+}

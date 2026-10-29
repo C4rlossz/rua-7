@@ -1,0 +1,355 @@
+{
+  "url": "/produto/tenis-floral",
+  "date": "2026-10-27T23:08:03.975Z",
+  "violations": [],
+  "passes": [
+    {
+      "id": "aria-allowed-attr",
+      "description": "Ensure an element's role supports its ARIA attributes"
+    },
+    {
+      "id": "aria-allowed-role",
+      "description": "Ensure role attribute has an appropriate value for the element"
+    },
+    {
+      "id": "aria-conditional-attr",
+      "description": "Ensure ARIA attributes are used as described in the specification of the element's role"
+    },
+    {
+      "id": "aria-deprecated-role",
+      "description": "Ensure elements do not use deprecated roles"
+    },
+    {
+      "id": "aria-hidden-body",
+      "description": "Ensure aria-hidden=\"true\" is not present on the document body."
+    },
+    {
+      "id": "aria-hidden-focus",
+      "description": "Ensure aria-hidden elements are not focusable nor contain focusable elements"
+    },
+    {
+      "id": "aria-prohibited-attr",
+      "description": "Ensure ARIA attributes are not prohibited for an element's role"
+    },
+    {
+      "id": "aria-required-attr",
+      "description": "Ensure elements with ARIA roles have all required ARIA attributes"
+    },
+    {
+      "id": "aria-roles",
+      "description": "Ensure all elements with a role attribute use a valid value"
+    },
+    {
+      "id": "aria-valid-attr-value",
+      "description": "Ensure all ARIA attributes have valid values"
+    },
+    {
+      "id": "aria-valid-attr",
+      "description": "Ensure attributes that begin with aria- are valid ARIA attributes"
+    },
+    {
+      "id": "autocomplete-valid",
+      "description": "Ensure the autocomplete attribute is correct and suitable for the form field"
+    },
+    {
+      "id": "button-name",
+      "description": "Ensure buttons have discernible text"
+    },
+    {
+      "id": "bypass",
+      "description": "Ensure each page has at least one mechanism for a user to bypass navigation and jump straight to the content"
+    },
+    {
+      "id": "color-contrast",
+      "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds"
+    },
+    {
+      "id": "document-title",
+      "description": "Ensure each HTML document contains a non-empty <title> element"
+    },
+    {
+      "id": "duplicate-id-aria",
+      "description": "Ensure every id attribute value used in ARIA and in labels is unique"
+    },
+    {
+      "id": "empty-heading",
+      "description": "Ensure headings have discernible text"
+    },
+    {
+      "id": "form-field-multiple-labels",
+      "description": "Ensure form field does not have multiple label elements"
+    },
+    {
+      "id": "heading-order",
+      "description": "Ensure the order of headings is semantically correct"
+    },
+    {
+      "id": "html-has-lang",
+      "description": "Ensure every HTML document has a lang attribute"
+    },
+    {
+      "id": "html-lang-valid",
+      "description": "Ensure the lang attribute of the <html> element has a valid value"
+    },
+    {
+      "id": "image-alt",
+      "description": "Ensure <img> elements have alternative text or a role of none or presentation"
+    },
+    {
+      "id": "image-redundant-alt",
+      "description": "Ensure image alternative is not repeated as text"
+    },
+    {
+      "id": "label-content-name-mismatch",
+      "description": "Ensure that elements labelled through their content must have their visible text as part of their accessible name"
+    },
+    {
+      "id": "label-title-only",
+      "description": "Ensure that every form element has a visible label and is not solely labeled using hidden labels, or the title or aria-describedby attributes"
+    },
+    {
+      "id": "label",
+      "description": "Ensure every form element has a label"
+    },
+    {
+      "id": "landmark-banner-is-top-level",
+      "description": "Ensure the banner landmark is at top level"
+    },
+    {
+      "id": "landmark-contentinfo-is-top-level",
+      "description": "Ensure the contentinfo landmark is at top level"
+    },
+    {
+      "id": "landmark-main-is-top-level",
+      "description": "Ensure the main landmark is at top level"
+    },
+    {
+      "id": "landmark-no-duplicate-banner",
+      "description": "Ensure the document has at most one banner landmark"
+    },
+    {
+      "id": "landmark-no-duplicate-contentinfo",
+      "description": "Ensure the document has at most one contentinfo landmark"
+    },
+    {
+      "id": "landmark-no-duplicate-main",
+      "description": "Ensure the document has at most one main landmark"
+    },
+    {
+      "id": "landmark-one-main",
+      "description": "Ensure the document has a main landmark"
+    },
+    {
+      "id": "landmark-unique",
+      "description": "Ensure landmarks are unique"
+    },
+    {
+      "id": "link-name",
+      "description": "Ensure links have discernible text"
+    },
+    {
+      "id": "meta-viewport-large",
+      "description": "Ensure <meta name=\"viewport\"> can scale a significant amount"
+    },
+    {
+      "id": "meta-viewport",
+      "description": "Ensure <meta name=\"viewport\"> does not disable text scaling and zooming"
+    },
+    {
+      "id": "nested-interactive",
+      "description": "Ensure interactive controls are not nested as they are not always announced by screen readers or can cause focus problems for assistive technologies"
+    },
+    {
+      "id": "page-has-heading-one",
+      "description": "Ensure that the page, or at least one of its frames contains a level-one heading"
+    },
+    {
+      "id": "presentation-role-conflict",
+      "description": "Ensure elements marked as presentational do not have global ARIA or tabindex so that all screen readers ignore them"
+    },
+    {
+      "id": "region",
+      "description": "Ensure all page content is contained by landmarks"
+    },
+    {
+      "id": "role-img-alt",
+      "description": "Ensure [role=\"img\"] and [role=\"image\"] elements have alternative text"
+    },
+    {
+      "id": "scrollable-region-focusable",
+      "description": "Ensure elements that have scrollable content are accessible by keyboard in Safari"
+    },
+    {
+      "id": "skip-link",
+      "description": "Ensure all skip links have a focusable target"
+    },
+    {
+      "id": "summary-name",
+      "description": "Ensure summary elements have discernible text"
+    },
+    {
+      "id": "tabindex",
+      "description": "Ensure tabindex attribute values are not greater than 0"
+    },
+    {
+      "id": "target-size",
+      "description": "Ensure touch targets have sufficient size and space"
+    }
+  ],
+  "incomplete": [
+    {
+      "id": "aria-prohibited-attr",
+      "impact": "serious",
+      "tags": [
+        "cat.aria",
+        "wcag2a",
+        "wcag412",
+        "EN-301-549",
+        "EN-9.4.1.2",
+        "RGAAv4",
+        "RGAA-7.1.1"
+      ],
+      "description": "Ensure ARIA attributes are not prohibited for an element's role",
+      "help": "Elements must only use permitted ARIA attributes",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.14/aria-prohibited-attr?application=axeAPI",
+      "nodes": [
+        {
+          "any": [],
+          "all": [],
+          "none": [
+            {
+              "id": "aria-prohibited-attr",
+              "data": {
+                "role": null,
+                "nodeName": "div",
+                "messageKey": "noRoleSingular",
+                "prohibited": [
+                  "aria-label"
+                ]
+              },
+              "relatedNodes": [],
+              "impact": "serious",
+              "message": "aria-label attribute is not well supported on \"div\" elements with no valid role attribute."
+            }
+          ],
+          "impact": "serious",
+          "html": "<div class=\"thumbnails\" aria-label=\"Vistas do produto\">",
+          "target": [
+            ".thumbnails"
+          ],
+          "failureSummary": "Fix all of the following:\n  aria-label attribute is not well supported on \"div\" elements with no valid role attribute."
+        },
+        {
+          "any": [],
+          "all": [],
+          "none": [
+            {
+              "id": "aria-prohibited-attr",
+              "data": {
+                "role": null,
+                "nodeName": "div",
+                "messageKey": "noRoleSingular",
+                "prohibited": [
+                  "aria-label"
+                ]
+              },
+              "relatedNodes": [],
+              "impact": "serious",
+              "message": "aria-label attribute is not well supported on \"div\" elements with no valid role attribute."
+            }
+          ],
+          "impact": "serious",
+          "html": "<div class=\"color-swatch\" aria-label=\"Cor ilustrada do produto\"><img class=\"product-photo \" alt=\"Rua 7 Movimento 01\" loading=\"lazy\" draggable=\"false\" src=\"/images/rua7-movimento-0.png\"></div>",
+          "target": [
+            ".color-swatch"
+          ],
+          "failureSummary": "Fix all of the following:\n  aria-label attribute is not well supported on \"div\" elements with no valid role attribute."
+        }
+      ]
+    },
+    {
+      "id": "color-contrast",
+      "impact": "serious",
+      "tags": [
+        "cat.color",
+        "wcag2aa",
+        "wcag143",
+        "TTv5",
+        "TT13.c",
+        "EN-301-549",
+        "EN-9.1.4.3",
+        "ACT",
+        "RGAAv4",
+        "RGAA-3.2.1"
+      ],
+      "description": "Ensure the contrast between foreground and background colors meets WCAG 2 AA minimum contrast ratio thresholds",
+      "help": "Elements must meet minimum color contrast ratio thresholds",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.14/color-contrast?application=axeAPI",
+      "nodes": [
+        {
+          "any": [
+            {
+              "id": "color-contrast",
+              "data": {
+                "contrastRatio": 0,
+                "fontSize": "4.5pt (6px)",
+                "fontWeight": "normal",
+                "messageKey": "imgNode",
+                "expectedContrastRatio": "4.5:1"
+              },
+              "relatedNodes": [
+                {
+                  "html": "<span class=\"badge muted\">Em breve</span>",
+                  "target": [
+                    ".badge"
+                  ]
+                },
+                {
+                  "html": "<img class=\"product-photo \" alt=\"Tênis — modelo 02\" loading=\"lazy\" draggable=\"false\" src=\"/images/campaign-optimized.jpg\">",
+                  "target": [
+                    "a[href$=\"tenis-02\"][data-discover=\"true\"]:nth-child(1) > .product-photo[alt=\"Tênis — modelo 02\"][src$=\"campaign-optimized.jpg\"]"
+                  ]
+                }
+              ],
+              "impact": "serious",
+              "message": "Element's background color could not be determined because element contains an image node"
+            }
+          ],
+          "all": [],
+          "none": [],
+          "impact": "serious",
+          "html": "<span class=\"badge muted\">Em breve</span>",
+          "target": [
+            ".badge"
+          ],
+          "failureSummary": "Fix any of the following:\n  Element's background color could not be determined because element contains an image node"
+        },
+        {
+          "any": [
+            {
+              "id": "color-contrast",
+              "data": {
+                "contrastRatio": 0,
+                "fontSize": "12.8pt (17px)",
+                "fontWeight": "bold",
+                "messageKey": "bgOverlap",
+                "expectedContrastRatio": "4.5:1"
+              },
+              "relatedNodes": [],
+              "impact": "serious",
+              "message": "Element's background color could not be determined because it is overlapped by another element"
+            }
+          ],
+          "all": [],
+          "none": [],
+          "impact": "serious",
+          "html": "<text x=\"150\" y=\"170\" text-anchor=\"middle\" fill=\"#6D28D9\" font-size=\"17\" font-weight=\"800\">RUA 7</text>",
+          "target": [
+            "a[href$=\"blusa-01\"][data-discover=\"true\"]:nth-child(1) > .product-placeholder[role=\"img\"] > svg[viewBox=\"0 0 300 320\"][aria-hidden=\"true\"] > text[x=\"150\"][y=\"170\"][font-size=\"17\"]"
+          ],
+          "failureSummary": "Fix any of the following:\n  Element's background color could not be determined because it is overlapped by another element"
+        }
+      ]
+    }
+  ]
+}

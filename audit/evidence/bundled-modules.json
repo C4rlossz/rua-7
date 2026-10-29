@@ -1,0 +1,2037 @@
+[
+  {
+    "id": "\u0000vite/modulepreload-polyfill.js",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 1168
+  },
+  {
+    "id": "\u0000commonjsHelpers.js",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 140
+  },
+  {
+    "id": "\u0000node_modules/react/jsx-runtime.js?commonjs-module",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 31
+  },
+  {
+    "id": "\u0000node_modules/react/cjs/react-jsx-runtime.production.js?commonjs-exports",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 36
+  },
+  {
+    "id": "node_modules/react/cjs/react-jsx-runtime.production.js",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 1294
+  },
+  {
+    "id": "node_modules/react/jsx-runtime.js",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 239
+  },
+  {
+    "id": "\u0000node_modules/react/jsx-runtime.js?commonjs-es-import",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 44
+  },
+  {
+    "id": "\u0000node_modules/react/index.js?commonjs-module",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 26
+  },
+  {
+    "id": "\u0000node_modules/react/cjs/react.production.js?commonjs-exports",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 26
+  },
+  {
+    "id": "node_modules/react/cjs/react.production.js",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 19185
+  },
+  {
+    "id": "node_modules/react/index.js",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 194
+  },
+  {
+    "id": "\u0000node_modules/react/index.js?commonjs-es-import",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 100
+  },
+  {
+    "id": "\u0000node_modules/react-dom/client.js?commonjs-module",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 29
+  },
+  {
+    "id": "\u0000node_modules/react-dom/cjs/react-dom-client.production.js?commonjs-exports",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 35
+  },
+  {
+    "id": "\u0000node_modules/scheduler/index.js?commonjs-module",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 30
+  },
+  {
+    "id": "\u0000node_modules/scheduler/cjs/scheduler.production.js?commonjs-exports",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 30
+  },
+  {
+    "id": "node_modules/scheduler/cjs/scheduler.production.js",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 11134
+  },
+  {
+    "id": "node_modules/scheduler/index.js",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 226
+  },
+  {
+    "id": "\u0000node_modules/react-dom/index.js?commonjs-module",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 29
+  },
+  {
+    "id": "\u0000node_modules/react-dom/cjs/react-dom.production.js?commonjs-exports",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 29
+  },
+  {
+    "id": "node_modules/react-dom/cjs/react-dom.production.js",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 7918
+  },
+  {
+    "id": "node_modules/react-dom/index.js",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 520
+  },
+  {
+    "id": "node_modules/react-dom/cjs/react-dom-client.production.js",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 644593
+  },
+  {
+    "id": "node_modules/react-dom/client.js",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 518
+  },
+  {
+    "id": "\u0000node_modules/react-dom/client.js?commonjs-es-import",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 36
+  },
+  {
+    "id": "node_modules/react-router/dist/development/chunk-OB3PAWPO.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 88237
+  },
+  {
+    "id": "src/assetPolicy.js",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 1011
+  },
+  {
+    "id": "src/catalog.js",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 7188
+  },
+  {
+    "id": "\u0000vite/preload-helper.js",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 1877
+  },
+  {
+    "id": "src/firebase.js",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 2808
+  },
+  {
+    "id": "src/storage.js",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 720
+  },
+  {
+    "id": "src/store.jsx",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 4887
+  },
+  {
+    "id": "node_modules/framer-motion/dist/es/context/LayoutGroupContext.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 58
+  },
+  {
+    "id": "node_modules/framer-motion/dist/es/utils/use-constant.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 485
+  },
+  {
+    "id": "node_modules/framer-motion/dist/es/utils/is-browser.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 50
+  },
+  {
+    "id": "node_modules/framer-motion/dist/es/utils/use-isomorphic-effect.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 102
+  },
+  {
+    "id": "node_modules/framer-motion/dist/es/context/PresenceContext.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 93
+  },
+  {
+    "id": "node_modules/motion-utils/dist/es/array.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 217
+  },
+  {
+    "id": "node_modules/motion-utils/dist/es/clamp.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 123
+  },
+  {
+    "id": "node_modules/motion-utils/dist/es/errors.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 26
+  },
+  {
+    "id": "node_modules/motion-utils/dist/es/global-config.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 30
+  },
+  {
+    "id": "node_modules/motion-utils/dist/es/is-numerical-string.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 178
+  },
+  {
+    "id": "node_modules/motion-utils/dist/es/is-object.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 72
+  },
+  {
+    "id": "node_modules/motion-utils/dist/es/is-zero-value-string.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 127
+  },
+  {
+    "id": "node_modules/motion-utils/dist/es/memo.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 184
+  },
+  {
+    "id": "node_modules/motion-utils/dist/es/noop.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 51
+  },
+  {
+    "id": "node_modules/motion-utils/dist/es/pipe.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 230
+  },
+  {
+    "id": "node_modules/motion-utils/dist/es/progress.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 348
+  },
+  {
+    "id": "node_modules/motion-utils/dist/es/subscription-manager.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 1102
+  },
+  {
+    "id": "node_modules/motion-utils/dist/es/time-conversion.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 319
+  },
+  {
+    "id": "node_modules/motion-utils/dist/es/velocity-per-second.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 184
+  },
+  {
+    "id": "node_modules/motion-utils/dist/es/easing/cubic-bezier.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 1925
+  },
+  {
+    "id": "node_modules/motion-utils/dist/es/easing/modifiers/mirror.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 277
+  },
+  {
+    "id": "node_modules/motion-utils/dist/es/easing/modifiers/reverse.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 196
+  },
+  {
+    "id": "node_modules/motion-utils/dist/es/easing/back.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 173
+  },
+  {
+    "id": "node_modules/motion-utils/dist/es/easing/anticipate.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 135
+  },
+  {
+    "id": "node_modules/motion-utils/dist/es/easing/circ.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 128
+  },
+  {
+    "id": "node_modules/motion-utils/dist/es/easing/ease.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 177
+  },
+  {
+    "id": "node_modules/motion-utils/dist/es/easing/utils/is-easing-array.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 124
+  },
+  {
+    "id": "node_modules/motion-utils/dist/es/easing/utils/is-bezier-definition.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 119
+  },
+  {
+    "id": "node_modules/motion-utils/dist/es/easing/utils/map.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 665
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/frameloop/order.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 249
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/frameloop/render-step.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 2804
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/frameloop/batcher.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 2282
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/frameloop/frame.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 206
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/frameloop/sync-time.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 773
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/animation/utils/is-css-variable.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 1101
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/value/types/numbers/index.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 229
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/value/types/utils/sanitize.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 143
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/value/types/utils/float-regex.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 49
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/value/types/utils/is-nullish.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 47
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/value/types/utils/single-color-regex.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 143
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/value/types/color/utils.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 740
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/value/types/color/rgba.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 540
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/value/types/color/hex.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 806
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/value/types/numbers/units.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 624
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/value/types/color/hsla.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 508
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/value/types/color/index.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 653
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/value/types/utils/color-regex.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 136
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/value/types/complex/index.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 3743
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/value/types/color/hsla-to-rgba.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 1034
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/utils/mix/immediate.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 66
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/utils/mix/number.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 643
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/utils/mix/color.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 1290
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/utils/mix/visibility.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 445
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/utils/mix/complex.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 2582
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/utils/mix/index.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 241
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/animation/drivers/frame.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 467
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/animation/waapi/utils/linear.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 396
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/animation/generators/utils/calc-duration.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 475
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/animation/generators/utils/create-generator-easing.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 522
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/animation/generators/spring.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 13033
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/animation/generators/utils/velocity.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 230
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/animation/generators/inertia.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 3209
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/utils/interpolate.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 2304
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/animation/keyframes/offsets/fill.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 250
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/animation/keyframes/offsets/default.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 114
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/animation/keyframes/offsets/time.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 95
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/animation/generators/keyframes.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 1529
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/animation/keyframes/get-final.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 480
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/animation/utils/replace-transition-type.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 285
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/animation/utils/WithPromise.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 521
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/animation/JSAnimation.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 8835
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/animation/keyframes/utils/fill-wildcards.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 151
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/render/dom/parse-transform.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 2414
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/render/utils/keys-transform.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 878
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/animation/keyframes/utils/unit-conversion.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 1691
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/animation/keyframes/KeyframesResolver.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 5050
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/render/dom/is-css-var.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 49
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/render/dom/style-set.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 152
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/utils/supports/flags.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 135
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/utils/supports/memo.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 146
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/utils/supports/scroll-timeline.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 121
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/utils/supports/linear-easing.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 277
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/animation/waapi/easing/cubic-bezier.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 85
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/animation/waapi/easing/supported.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 434
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/animation/waapi/easing/map-easing.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 612
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/animation/waapi/start-waapi-animation.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 907
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/animation/generators/utils/is-generator.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 97
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/animation/waapi/utils/apply-generator.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 305
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/animation/NativeAnimation.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 5849
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/animation/waapi/utils/unsupported-easing.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 382
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/animation/NativeAnimationExtended.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 3043
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/animation/utils/is-animatable.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 923
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/animation/utils/can-animate.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 1332
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/animation/utils/make-animation-instant.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 100
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/animation/waapi/utils/accelerated-values.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 186
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/animation/waapi/utils/is-browser-color.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 343
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/animation/waapi/supports/waapi.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 1774
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/animation/AsyncMotionValueAnimation.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 6288
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/animation/utils/calc-child-stagger.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 589
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/value/index.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 7282
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/animation/utils/resolve-transition.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 423
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/animation/utils/get-value-transition.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 291
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/animation/utils/default-transitions.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 872
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/animation/utils/is-transition-defined.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 541
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/animation/interfaces/motion-value.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 3597
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/animation/utils/css-variables-conversion.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 1168
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/render/utils/resolve-variants.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 1308
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/render/utils/resolve-dynamic-variants.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 222
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/render/utils/keys-position.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 140
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/render/utils/is-keyframes-target.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 66
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/render/utils/setters.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 881
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/value/utils/is-motion-value.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 69
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/value/will-change/is.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 98
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/value/will-change/add-will-change.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 579
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/render/dom/utils/camel-to-dash.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 103
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/animation/optimized-appear/data-id.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 130
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/animation/optimized-appear/get-appear-id.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 110
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/animation/interfaces/visual-element-target.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 3973
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/animation/interfaces/visual-element-variant.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 2495
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/animation/interfaces/visual-element.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 847
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/value/types/auto.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 101
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/value/types/test.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 106
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/value/types/dimensions.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 295
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/animation/keyframes/utils/is-none.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 250
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/value/types/complex/filter.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 810
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/value/types/complex/mask.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 294
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/value/types/int.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 58
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/value/types/maps/transform.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 767
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/value/types/maps/number.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 1374
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/value/types/maps/defaults.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 586
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/value/types/utils/animatable-none.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 469
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/animation/keyframes/utils/make-none-animatable.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 1060
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/animation/keyframes/DOMKeyframesResolver.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 5761
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/utils/border-radius.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 419
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/utils/resolve-elements.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 563
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/value/types/utils/get-as-type.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 221
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/utils/is-html-element.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 236
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/frameloop/microtask.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 91
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/gestures/drag/state/is-active.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 120
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/gestures/drag/state/set-active.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 553
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/gestures/utils/setup.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 394
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/gestures/hover.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 2503
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/gestures/utils/is-node-or-child.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 439
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/gestures/utils/is-primary-pointer.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 585
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/gestures/press/utils/is-keyboard-accessible.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 1116
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/gestures/press/utils/state.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 33
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/gestures/press/utils/keyboard.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 1233
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/gestures/press/index.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 3502
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/utils/is-svg-element.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 184
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/resize/handle-element.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 1867
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/resize/handle-window.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 892
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/resize/index.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 101
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/utils/is-svg-svg-element.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 226
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/value/types/utils/find.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 216
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/projection/geometry/models.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 308
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/render/store.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 41
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/render/utils/is-animation-controls.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 134
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/render/utils/is-variant-label.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 145
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/render/utils/variant-props.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 207
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/render/utils/is-controlling-variants.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 260
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/render/utils/motion-values.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 1922
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/render/utils/reduced-motion/state.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 171
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/render/utils/reduced-motion/index.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 577
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/render/VisualElement.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 13545
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/render/dom/DOMVisualElement.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 1175
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/render/Feature.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 315
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/projection/geometry/conversion.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 1135
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/projection/utils/has-transform.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 654
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/projection/geometry/delta-apply.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 4484
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/projection/utils/measure.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 514
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/render/html/utils/build-transform.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 2519
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/render/html/utils/build-styles.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 2145
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/render/html/utils/render.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 614
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/projection/styles/scale-border-radius.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 1458
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/projection/styles/scale-box-shadow.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 1299
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/projection/styles/scale-correction.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 353
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/render/utils/is-forced-motion-value.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 242
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/render/html/utils/scrape-motion-values.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 541
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/render/html/HTMLVisualElement.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 1590
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/render/svg/utils/path.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 1157
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/render/svg/utils/build-attrs.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 2207
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/render/svg/utils/camel-case-attrs.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 577
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/render/svg/utils/is-svg-tag.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 81
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/render/svg/utils/render.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 288
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/render/svg/utils/scrape-motion-values.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 527
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/render/svg/SVGVisualElement.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 1177
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/render/utils/get-variant-context.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 887
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/render/utils/shallow-compare.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 310
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/render/utils/animation-state.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 16831
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/projection/geometry/copy.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 708
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/projection/geometry/delta-calc.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 2189
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/projection/geometry/delta-remove.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 2263
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/projection/geometry/utils.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 830
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/projection/utils/each-axis.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 74
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/projection/styles/transform.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 2247
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/projection/animation/mix-values.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 2226
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/animation/animate/single-value.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 255
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/events/add-dom-event.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 213
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/projection/utils/compare-by-depth.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 51
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/projection/utils/flat-tree.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 457
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/utils/delay.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 401
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/value/utils/resolve-motion-value.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 207
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/projection/shared/stack.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 2784
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/projection/node/state.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 558
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/projection/node/create-projection-node.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 72046
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/projection/node/DocumentProjectionNode.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 371
+  },
+  {
+    "id": "node_modules/motion-dom/dist/es/projection/node/HTMLProjectionNode.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 794
+  },
+  {
+    "id": "node_modules/framer-motion/dist/es/context/MotionConfigContext.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 162
+  },
+  {
+    "id": "node_modules/framer-motion/dist/es/utils/use-composed-ref.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 1857
+  },
+  {
+    "id": "node_modules/framer-motion/dist/es/components/AnimatePresence/PopChild.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 4301
+  },
+  {
+    "id": "node_modules/framer-motion/dist/es/components/AnimatePresence/PresenceChild.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 2718
+  },
+  {
+    "id": "node_modules/framer-motion/dist/es/components/AnimatePresence/use-presence.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 1422
+  },
+  {
+    "id": "node_modules/framer-motion/dist/es/components/AnimatePresence/utils.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 371
+  },
+  {
+    "id": "node_modules/framer-motion/dist/es/components/AnimatePresence/index.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 3274
+  },
+  {
+    "id": "node_modules/framer-motion/dist/es/context/LazyContext.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 66
+  },
+  {
+    "id": "node_modules/framer-motion/dist/es/motion/features/definitions.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 1307
+  },
+  {
+    "id": "node_modules/framer-motion/dist/es/motion/features/load-features.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 306
+  },
+  {
+    "id": "node_modules/framer-motion/dist/es/motion/utils/valid-prop.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 1256
+  },
+  {
+    "id": "node_modules/framer-motion/dist/es/render/dom/utils/filter-props.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 2712
+  },
+  {
+    "id": "node_modules/framer-motion/dist/es/components/MotionConfig/index.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 1444
+  },
+  {
+    "id": "node_modules/framer-motion/dist/es/context/MotionContext/index.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 69
+  },
+  {
+    "id": "node_modules/framer-motion/dist/es/context/MotionContext/utils.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 409
+  },
+  {
+    "id": "node_modules/framer-motion/dist/es/context/MotionContext/create.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 384
+  },
+  {
+    "id": "node_modules/framer-motion/dist/es/render/html/utils/create-render-state.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 115
+  },
+  {
+    "id": "node_modules/framer-motion/dist/es/render/html/use-props.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 1744
+  },
+  {
+    "id": "node_modules/framer-motion/dist/es/render/svg/utils/create-render-state.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 88
+  },
+  {
+    "id": "node_modules/framer-motion/dist/es/render/svg/use-props.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 594
+  },
+  {
+    "id": "node_modules/framer-motion/dist/es/render/svg/lowercase-elements.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 495
+  },
+  {
+    "id": "node_modules/framer-motion/dist/es/render/dom/utils/is-svg-component.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 712
+  },
+  {
+    "id": "node_modules/framer-motion/dist/es/render/dom/use-render.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 966
+  },
+  {
+    "id": "node_modules/framer-motion/dist/es/motion/utils/use-visual-state.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 2916
+  },
+  {
+    "id": "node_modules/framer-motion/dist/es/render/html/use-html-visual-state.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 175
+  },
+  {
+    "id": "node_modules/framer-motion/dist/es/render/svg/use-svg-visual-state.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 171
+  },
+  {
+    "id": "node_modules/framer-motion/dist/es/motion/utils/symbol.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 66
+  },
+  {
+    "id": "node_modules/framer-motion/dist/es/motion/utils/use-motion-ref.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 1735
+  },
+  {
+    "id": "node_modules/framer-motion/dist/es/context/SwitchLayoutGroupContext.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 119
+  },
+  {
+    "id": "node_modules/framer-motion/dist/es/utils/is-ref-object.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 146
+  },
+  {
+    "id": "node_modules/framer-motion/dist/es/motion/utils/use-visual-element.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 6720
+  },
+  {
+    "id": "node_modules/framer-motion/dist/es/motion/index.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 2484
+  },
+  {
+    "id": "node_modules/framer-motion/dist/es/render/components/create-proxy.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 1015
+  },
+  {
+    "id": "node_modules/framer-motion/dist/es/render/dom/create-visual-element.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 385
+  },
+  {
+    "id": "node_modules/framer-motion/dist/es/motion/features/animation/index.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 1169
+  },
+  {
+    "id": "node_modules/framer-motion/dist/es/motion/features/animation/exit.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 2410
+  },
+  {
+    "id": "node_modules/framer-motion/dist/es/motion/features/animations.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 140
+  },
+  {
+    "id": "node_modules/framer-motion/dist/es/events/event-info.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 255
+  },
+  {
+    "id": "node_modules/framer-motion/dist/es/events/add-pointer-event.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 142
+  },
+  {
+    "id": "node_modules/framer-motion/dist/es/utils/get-context-window.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 171
+  },
+  {
+    "id": "node_modules/framer-motion/dist/es/utils/distance.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 225
+  },
+  {
+    "id": "node_modules/framer-motion/dist/es/gestures/pan/PanSession.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 10694
+  },
+  {
+    "id": "node_modules/framer-motion/dist/es/gestures/drag/utils/constraints.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 4356
+  },
+  {
+    "id": "node_modules/framer-motion/dist/es/gestures/drag/VisualElementDragControls.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 24012
+  },
+  {
+    "id": "node_modules/framer-motion/dist/es/gestures/drag/index.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 1718
+  },
+  {
+    "id": "node_modules/framer-motion/dist/es/gestures/pan/index.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 1408
+  },
+  {
+    "id": "node_modules/framer-motion/dist/es/motion/features/layout/MeasureLayout.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 4933
+  },
+  {
+    "id": "node_modules/framer-motion/dist/es/motion/features/drag.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 180
+  },
+  {
+    "id": "node_modules/framer-motion/dist/es/gestures/hover.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 777
+  },
+  {
+    "id": "node_modules/framer-motion/dist/es/gestures/focus.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 1240
+  },
+  {
+    "id": "node_modules/framer-motion/dist/es/gestures/press.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 1112
+  },
+  {
+    "id": "node_modules/framer-motion/dist/es/motion/features/viewport/observers.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 1769
+  },
+  {
+    "id": "node_modules/framer-motion/dist/es/motion/features/viewport/index.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 2596
+  },
+  {
+    "id": "node_modules/framer-motion/dist/es/motion/features/gestures.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 234
+  },
+  {
+    "id": "node_modules/framer-motion/dist/es/motion/features/layout.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 107
+  },
+  {
+    "id": "node_modules/framer-motion/dist/es/render/components/motion/feature-bundle.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 99
+  },
+  {
+    "id": "node_modules/framer-motion/dist/es/render/components/motion/proxy.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 88
+  },
+  {
+    "id": "node_modules/framer-motion/dist/es/utils/reduced-motion/use-reduced-motion.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 211
+  },
+  {
+    "id": "node_modules/motion/dist/es/react.mjs",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 607
+  },
+  {
+    "id": "node_modules/lucide-react/dist/esm/shared/src/utils.js",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 464
+  },
+  {
+    "id": "node_modules/lucide-react/dist/esm/defaultAttributes.js",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 404
+  },
+  {
+    "id": "node_modules/lucide-react/dist/esm/Icon.js",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 899
+  },
+  {
+    "id": "node_modules/lucide-react/dist/esm/createLucideIcon.js",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 538
+  },
+  {
+    "id": "node_modules/lucide-react/dist/esm/icons/arrow-right.js",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 326
+  },
+  {
+    "id": "node_modules/lucide-react/dist/esm/icons/arrow-up-right.js",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 329
+  },
+  {
+    "id": "node_modules/lucide-react/dist/esm/icons/circle-check.js",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 344
+  },
+  {
+    "id": "node_modules/lucide-react/dist/esm/icons/heart.js",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 421
+  },
+  {
+    "id": "node_modules/lucide-react/dist/esm/icons/menu.js",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 425
+  },
+  {
+    "id": "node_modules/lucide-react/dist/esm/icons/move-up-right.js",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 328
+  },
+  {
+    "id": "node_modules/lucide-react/dist/esm/icons/search.js",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 334
+  },
+  {
+    "id": "node_modules/lucide-react/dist/esm/icons/shopping-bag.js",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 422
+  },
+  {
+    "id": "node_modules/lucide-react/dist/esm/icons/sliders-horizontal.js",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 870
+  },
+  {
+    "id": "node_modules/lucide-react/dist/esm/icons/user-round.js",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 346
+  },
+  {
+    "id": "node_modules/lucide-react/dist/esm/icons/x.js",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 307
+  },
+  {
+    "id": "src/site-info.json",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 612
+  },
+  {
+    "id": "src/siteConfig.js",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 83
+  },
+  {
+    "id": "src/LegalFooter.jsx",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 3495
+  },
+  {
+    "id": "src/ui.jsx",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 13544
+  },
+  {
+    "id": "src/Home.jsx",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 13510
+  },
+  {
+    "id": "src/App.jsx",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 4787
+  },
+  {
+    "id": "src/main.jsx",
+    "file": "assets/index-BLAn2Fo-.js",
+    "bytes": 320
+  },
+  {
+    "id": "node_modules/lucide-react/dist/esm/icons/chevron-left.js",
+    "file": "assets/ProductPage-D7NrlkCc.js",
+    "bytes": 283
+  },
+  {
+    "id": "node_modules/lucide-react/dist/esm/icons/chevron-right.js",
+    "file": "assets/ProductPage-D7NrlkCc.js",
+    "bytes": 284
+  },
+  {
+    "id": "node_modules/lucide-react/dist/esm/icons/copy.js",
+    "file": "assets/ProductPage-D7NrlkCc.js",
+    "bytes": 402
+  },
+  {
+    "id": "node_modules/lucide-react/dist/esm/icons/image.js",
+    "file": "assets/ProductPage-D7NrlkCc.js",
+    "bytes": 449
+  },
+  {
+    "id": "node_modules/lucide-react/dist/esm/icons/maximize-2.js",
+    "file": "assets/ProductPage-D7NrlkCc.js",
+    "bytes": 489
+  },
+  {
+    "id": "node_modules/lucide-react/dist/esm/icons/move-horizontal.js",
+    "file": "assets/ProductPage-D7NrlkCc.js",
+    "bytes": 384
+  },
+  {
+    "id": "node_modules/lucide-react/dist/esm/icons/pause.js",
+    "file": "assets/ProductPage-D7NrlkCc.js",
+    "bytes": 384
+  },
+  {
+    "id": "node_modules/lucide-react/dist/esm/icons/play.js",
+    "file": "assets/ProductPage-D7NrlkCc.js",
+    "bytes": 281
+  },
+  {
+    "id": "node_modules/lucide-react/dist/esm/icons/rotate-3d.js",
+    "file": "assets/ProductPage-D7NrlkCc.js",
+    "bytes": 625
+  },
+  {
+    "id": "node_modules/lucide-react/dist/esm/icons/share-2.js",
+    "file": "assets/ProductPage-D7NrlkCc.js",
+    "bytes": 565
+  },
+  {
+    "id": "src/productModel.js",
+    "file": "assets/ProductPage-D7NrlkCc.js",
+    "bytes": 423
+  },
+  {
+    "id": "src/ProductViewer.jsx",
+    "file": "assets/ProductPage-D7NrlkCc.js",
+    "bytes": 10221
+  },
+  {
+    "id": "src/ProductPage.jsx",
+    "file": "assets/ProductPage-D7NrlkCc.js",
+    "bytes": 11804
+  },
+  {
+    "id": "node_modules/lucide-react/dist/esm/icons/info.js",
+    "file": "assets/Checkout-BqHApEWc.js",
+    "bytes": 373
+  },
+  {
+    "id": "src/Checkout.jsx",
+    "file": "assets/Checkout-BqHApEWc.js",
+    "bytes": 19427
+  },
+  {
+    "id": "node_modules/lucide-react/dist/esm/icons/check.js",
+    "file": "assets/check-pjliec7H.js",
+    "bytes": 268
+  },
+  {
+    "id": "node_modules/lucide-react/dist/esm/icons/eye-off.js",
+    "file": "assets/AuthPages-BOMOyM_A.js",
+    "bytes": 661
+  },
+  {
+    "id": "node_modules/lucide-react/dist/esm/icons/eye.js",
+    "file": "assets/AuthPages-BOMOyM_A.js",
+    "bytes": 443
+  },
+  {
+    "id": "src/AuthPages.jsx",
+    "file": "assets/AuthPages-BOMOyM_A.js",
+    "bytes": 12361
+  },
+  {
+    "id": "node_modules/lucide-react/dist/esm/icons/lock-keyhole.js",
+    "file": "assets/lock-keyhole-CgtdUD_2.js",
+    "bytes": 438
+  },
+  {
+    "id": "node_modules/lucide-react/dist/esm/icons/circle-help.js",
+    "file": "assets/Admin-CBZMudB0.js",
+    "bytes": 413
+  },
+  {
+    "id": "node_modules/lucide-react/dist/esm/icons/clock-3.js",
+    "file": "assets/Admin-CBZMudB0.js",
+    "bytes": 348
+  },
+  {
+    "id": "node_modules/lucide-react/dist/esm/icons/layout-dashboard.js",
+    "file": "assets/Admin-CBZMudB0.js",
+    "bytes": 567
+  },
+  {
+    "id": "node_modules/lucide-react/dist/esm/icons/package.js",
+    "file": "assets/Admin-CBZMudB0.js",
+    "bytes": 591
+  },
+  {
+    "id": "node_modules/lucide-react/dist/esm/icons/pencil.js",
+    "file": "assets/Admin-CBZMudB0.js",
+    "bytes": 462
+  },
+  {
+    "id": "node_modules/lucide-react/dist/esm/icons/save.js",
+    "file": "assets/Admin-CBZMudB0.js",
+    "bytes": 520
+  },
+  {
+    "id": "node_modules/lucide-react/dist/esm/icons/settings-2.js",
+    "file": "assets/Admin-CBZMudB0.js",
+    "bytes": 439
+  },
+  {
+    "id": "src/Admin.jsx",
+    "file": "assets/Admin-CBZMudB0.js",
+    "bytes": 24010
+  },
+  {
+    "id": "node_modules/lucide-react/dist/esm/icons/log-out.js",
+    "file": "assets/shield-check-qntONUFQ.js",
+    "bytes": 431
+  },
+  {
+    "id": "node_modules/lucide-react/dist/esm/icons/shield-check.js",
+    "file": "assets/shield-check-qntONUFQ.js",
+    "bytes": 510
+  },
+  {
+    "id": "node_modules/lucide-react/dist/esm/icons/download.js",
+    "file": "assets/LegalPages-CIK73bZx.js",
+    "bytes": 437
+  },
+  {
+    "id": "node_modules/lucide-react/dist/esm/icons/mail.js",
+    "file": "assets/LegalPages-CIK73bZx.js",
+    "bytes": 379
+  },
+  {
+    "id": "src/legalContent.js",
+    "file": "assets/LegalPages-CIK73bZx.js",
+    "bytes": 12511
+  },
+  {
+    "id": "src/contactRequest.js",
+    "file": "assets/LegalPages-CIK73bZx.js",
+    "bytes": 1103
+  },
+  {
+    "id": "src/LegalPages.jsx",
+    "file": "assets/LegalPages-CIK73bZx.js",
+    "bytes": 9747
+  },
+  {
+    "id": "node_modules/lucide-react/dist/esm/icons/trash-2.js",
+    "file": "assets/trash-2-D5Oq9Zik.js",
+    "bytes": 554
+  },
+  {
+    "id": "node_modules/lucide-react/dist/esm/icons/arrow-left.js",
+    "file": "assets/arrow-left-p27mlCWP.js",
+    "bytes": 325
+  },
+  {
+    "id": "node_modules/@firebase/util/dist/postinstall.mjs",
+    "file": "assets/firebaseClient-DcN6XtLa.js",
+    "bytes": 53
+  },
+  {
+    "id": "node_modules/@firebase/util/dist/index.esm.js",
+    "file": "assets/firebaseClient-DcN6XtLa.js",
+    "bytes": 40298
+  },
+  {
+    "id": "node_modules/@firebase/component/dist/esm/index.esm.js",
+    "file": "assets/firebaseClient-DcN6XtLa.js",
+    "bytes": 16274
+  },
+  {
+    "id": "node_modules/@firebase/logger/dist/esm/index.esm.js",
+    "file": "assets/firebaseClient-DcN6XtLa.js",
+    "bytes": 5256
+  },
+  {
+    "id": "node_modules/idb/build/wrap-idb-value.js",
+    "file": "assets/firebaseClient-DcN6XtLa.js",
+    "bytes": 7391
+  },
+  {
+    "id": "node_modules/idb/build/index.js",
+    "file": "assets/firebaseClient-DcN6XtLa.js",
+    "bytes": 2928
+  },
+  {
+    "id": "node_modules/@firebase/app/dist/esm/index.esm.js",
+    "file": "assets/firebaseClient-DcN6XtLa.js",
+    "bytes": 34379
+  },
+  {
+    "id": "node_modules/firebase/app/dist/esm/index.esm.js",
+    "file": "assets/firebaseClient-DcN6XtLa.js",
+    "bytes": 700
+  },
+  {
+    "id": "node_modules/@firebase/auth/dist/esm/index-4NFEPWkC.js",
+    "file": "assets/firebaseClient-DcN6XtLa.js",
+    "bytes": 183084
+  },
+  {
+    "id": "node_modules/@firebase/database/dist/index.esm.js",
+    "file": "assets/firebaseClient-DcN6XtLa.js",
+    "bytes": 341502
+  },
+  {
+    "id": "src/firebaseClient.js",
+    "file": "assets/firebaseClient-DcN6XtLa.js",
+    "bytes": 1428
+  },
+  {
+    "id": "src/authz.js",
+    "file": "assets/authz-B81UOb4B.js",
+    "bytes": 97
+  },
+  {
+    "id": "node_modules/lucide-react/dist/esm/icons/rotate-ccw.js",
+    "file": "assets/model360-Dx7qNwys.js",
+    "bytes": 360
+  },
+  {
+    "id": "node_modules/three/build/three.core.js",
+    "file": "assets/model360-Dx7qNwys.js",
+    "bytes": 1396337
+  },
+  {
+    "id": "node_modules/three/build/three.module.js",
+    "file": "assets/model360-Dx7qNwys.js",
+    "bytes": 592540
+  },
+  {
+    "id": "\u0000node_modules/use-sync-external-store/shim/with-selector.js?commonjs-module",
+    "file": "assets/model360-Dx7qNwys.js",
+    "bytes": 33
+  },
+  {
+    "id": "\u0000node_modules/use-sync-external-store/cjs/use-sync-external-store-shim/with-selector.production.js?commonjs-exports",
+    "file": "assets/model360-Dx7qNwys.js",
+    "bytes": 33
+  },
+  {
+    "id": "\u0000node_modules/use-sync-external-store/shim/index.js?commonjs-module",
+    "file": "assets/model360-Dx7qNwys.js",
+    "bytes": 25
+  },
+  {
+    "id": "\u0000node_modules/use-sync-external-store/cjs/use-sync-external-store-shim.production.js?commonjs-exports",
+    "file": "assets/model360-Dx7qNwys.js",
+    "bytes": 45
+  },
+  {
+    "id": "node_modules/use-sync-external-store/cjs/use-sync-external-store-shim.production.js",
+    "file": "assets/model360-Dx7qNwys.js",
+    "bytes": 2342
+  },
+  {
+    "id": "node_modules/use-sync-external-store/shim/index.js",
+    "file": "assets/model360-Dx7qNwys.js",
+    "bytes": 206
+  },
+  {
+    "id": "node_modules/use-sync-external-store/cjs/use-sync-external-store-shim/with-selector.production.js",
+    "file": "assets/model360-Dx7qNwys.js",
+    "bytes": 2977
+  },
+  {
+    "id": "node_modules/use-sync-external-store/shim/with-selector.js",
+    "file": "assets/model360-Dx7qNwys.js",
+    "bytes": 250
+  },
+  {
+    "id": "\u0000node_modules/use-sync-external-store/shim/with-selector.js?commonjs-es-import",
+    "file": "assets/model360-Dx7qNwys.js",
+    "bytes": 143
+  },
+  {
+    "id": "node_modules/zustand/esm/vanilla.mjs",
+    "file": "assets/model360-Dx7qNwys.js",
+    "bytes": 977
+  },
+  {
+    "id": "node_modules/zustand/esm/traditional.mjs",
+    "file": "assets/model360-Dx7qNwys.js",
+    "bytes": 876
+  },
+  {
+    "id": "node_modules/suspend-react/index.js",
+    "file": "assets/model360-Dx7qNwys.js",
+    "bytes": 2643
+  },
+  {
+    "id": "node_modules/its-fine/dist/index.js",
+    "file": "assets/model360-Dx7qNwys.js",
+    "bytes": 4440
+  },
+  {
+    "id": "\u0000node_modules/scheduler/index.js?commonjs-es-import",
+    "file": "assets/model360-Dx7qNwys.js",
+    "bytes": 109
+  },
+  {
+    "id": "node_modules/@react-three/fiber/dist/events-e51d7528.esm.js",
+    "file": "assets/model360-Dx7qNwys.js",
+    "bytes": 304131
+  },
+  {
+    "id": "node_modules/react-use-measure/dist/index.js",
+    "file": "assets/model360-Dx7qNwys.js",
+    "bytes": 3263
+  },
+  {
+    "id": "node_modules/@react-three/fiber/dist/react-three-fiber.esm.js",
+    "file": "assets/model360-Dx7qNwys.js",
+    "bytes": 6257
+  },
+  {
+    "id": "node_modules/@babel/runtime/helpers/esm/extends.js",
+    "file": "assets/model360-Dx7qNwys.js",
+    "bytes": 304
+  },
+  {
+    "id": "node_modules/three-stdlib/_polyfill/constants.js",
+    "file": "assets/model360-Dx7qNwys.js",
+    "bytes": 81
+  },
+  {
+    "id": "node_modules/three-stdlib/utils/BufferGeometryUtils.js",
+    "file": "assets/model360-Dx7qNwys.js",
+    "bytes": 2069
+  },
+  {
+    "id": "node_modules/three-stdlib/controls/EventDispatcher.js",
+    "file": "assets/model360-Dx7qNwys.js",
+    "bytes": 2376
+  },
+  {
+    "id": "node_modules/three-stdlib/controls/OrbitControls.js",
+    "file": "assets/model360-Dx7qNwys.js",
+    "bytes": 32231
+  },
+  {
+    "id": "node_modules/three-stdlib/_polyfill/LoaderUtils.js",
+    "file": "assets/model360-Dx7qNwys.js",
+    "bytes": 316
+  },
+  {
+    "id": "node_modules/three-stdlib/loaders/GLTFLoader.js",
+    "file": "assets/model360-Dx7qNwys.js",
+    "bytes": 98298
+  },
+  {
+    "id": "node_modules/three-stdlib/shaders/HorizontalBlurShader.js",
+    "file": "assets/model360-Dx7qNwys.js",
+    "bytes": 1194
+  },
+  {
+    "id": "node_modules/three-stdlib/shaders/VerticalBlurShader.js",
+    "file": "assets/model360-Dx7qNwys.js",
+    "bytes": 1162
+  },
+  {
+    "id": "node_modules/three-stdlib/loaders/DRACOLoader.js",
+    "file": "assets/model360-Dx7qNwys.js",
+    "bytes": 11888
+  },
+  {
+    "id": "node_modules/three-stdlib/libs/MeshoptDecoder.js",
+    "file": "assets/model360-Dx7qNwys.js",
+    "bytes": 21685
+  },
+  {
+    "id": "node_modules/@react-three/drei/core/Gltf.js",
+    "file": "assets/model360-Dx7qNwys.js",
+    "bytes": 1031
+  },
+  {
+    "id": "node_modules/@react-three/drei/core/OrbitControls.js",
+    "file": "assets/model360-Dx7qNwys.js",
+    "bytes": 2356
+  },
+  {
+    "id": "node_modules/@react-three/drei/core/Center.js",
+    "file": "assets/model360-Dx7qNwys.js",
+    "bytes": 2152
+  },
+  {
+    "id": "node_modules/@react-three/drei/core/ContactShadows.js",
+    "file": "assets/model360-Dx7qNwys.js",
+    "bytes": 4348
+  },
+  {
+    "id": "src/model360.jsx",
+    "file": "assets/model360-Dx7qNwys.js",
+    "bytes": 6708
+  },
+  {
+    "id": "node_modules/lucide-react/dist/esm/icons/minus.js",
+    "file": "assets/plus-BJ_JVbnK.js",
+    "bytes": 261
+  },
+  {
+    "id": "node_modules/lucide-react/dist/esm/icons/plus.js",
+    "file": "assets/plus-BJ_JVbnK.js",
+    "bytes": 309
+  }
+]

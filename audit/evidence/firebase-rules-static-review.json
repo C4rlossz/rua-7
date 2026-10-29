@@ -1,0 +1,16 @@
+{
+  "score": 4,
+  "summary": "Revisão estática de regras Realtime Database, adaptando o checklist de autoridade, atualização, tipos, limites e finalidade. Não é aprovação do compilador, emulador ou implantação remota. A nota não certifica o backend.",
+  "findings": [
+    {"check":"Engine and deployment evidence","severity":"moderate","issue":"Sem autenticação Firebase e sem Java para validar emulador. Regras do arquivo não comprovam configuração do servidor.","recommendation":"Executar testes positivos e negativos, validar sintaxe no emulador e verificar o projeto correto antes de ativar contas."},
+    {"check":"Array index consistency","severity":"minor","issue":"Tamanhos/imagens limitam número de filhos e tipos, mas não impõem sequência numérica contígua ou exclusividade dos tamanhos. Escrita depende de administrador autorizado, e o cliente rejeita estruturas inválidas.","recommendation":"Validar formato de arrays e tamanhos únicos no fluxo administrativo e incluir testes de formatos esparsos no emulador antes de uso real."},
+    {"check":"Resource limits","severity":"minor","issue":"Limites por produto existem, porém não há quota total de catálogo, monitoramento ou alerta operacional demonstrados.","recommendation":"Definir quotas e alertas no provedor segundo a operação e validar limites com o responsável."}
+  ],
+  "checks": {
+    "authority":"Custom claim admin true and email_verified true; no self-service role path.",
+    "update":"Same parent/child validation applies to create and update. Required id matches path. Deletion of whole product denied; unknown fields denied.",
+    "businessPurpose":"Public catalog, admin product writes, other roots denied. Demonstration orders are local and have no remote collection.",
+    "typesAndLimits":"Strings, integer money/stock, categories, child counts, local image/model paths and field whitelist reviewed.",
+    "privacy":"Public product data is intentional; personal information must not be placed in catalog fields. No public users collection."
+  }
+}

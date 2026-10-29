@@ -1,0 +1,6 @@
+import {mkdir,writeFile} from 'node:fs/promises';
+import {createHash} from 'node:crypto';
+const sources={firebase:'https://raw.githubusercontent.com/firebase/firebase-js-sdk/master/LICENSE',fiber:'https://raw.githubusercontent.com/pmndrs/react-three-fiber/master/LICENSE',mediapipe:'https://raw.githubusercontent.com/google-ai-edge/mediapipe/master/LICENSE',draco:'https://raw.githubusercontent.com/google/draco/main/LICENSE',maath:'https://raw.githubusercontent.com/pmndrs/maath/main/LICENSE',stats:'https://raw.githubusercontent.com/RenaudRohlinger/stats-gl/master/LICENSE'};
+await mkdir('docs/licenses',{recursive:true});const result=[];
+for(const[name,url]of Object.entries(sources)){const response=await fetch(url);if(!response.ok){result.push({name,url,status:response.status});continue;}const text=await response.text();const file=`docs/licenses/${name}-LICENSE.txt`;await writeFile(file,text);result.push({name,url,file,date:new Date().toISOString(),sha256:createHash('sha256').update(text).digest('hex'),limitation:'Upstream branch at retrieval, not an exact version tag.'});}
+await writeFile('docs/licenses/sources.json',JSON.stringify(result,null,2));console.log(result.map(x=>({name:x.name,status:x.status||200})));

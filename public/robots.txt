@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /
+# Demonstração: indexação desativada até abertura comercial.

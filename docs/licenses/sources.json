@@ -1,0 +1,47 @@
+[
+  {
+    "name": "firebase",
+    "url": "https://raw.githubusercontent.com/firebase/firebase-js-sdk/master/LICENSE",
+    "file": "docs/licenses/firebase-LICENSE.txt",
+    "date": "2026-10-27T22:13:11.596Z",
+    "sha256": "065e45b5674f9bf76670496e5472611b3fbd87fbeaf99336725430a9909cb687",
+    "limitation": "Upstream branch at retrieval, not an exact version tag."
+  },
+  {
+    "name": "fiber",
+    "url": "https://raw.githubusercontent.com/pmndrs/react-three-fiber/master/LICENSE",
+    "file": "docs/licenses/fiber-LICENSE.txt",
+    "date": "2026-10-27T22:13:11.790Z",
+    "sha256": "9c35b5de7b7493a707fffe4eb23bd2f7f449153c1911f7c6eefb4e591fd5349a",
+    "limitation": "Upstream branch at retrieval, not an exact version tag."
+  },
+  {
+    "name": "mediapipe",
+    "url": "https://raw.githubusercontent.com/google-ai-edge/mediapipe/master/LICENSE",
+    "file": "docs/licenses/mediapipe-LICENSE.txt",
+    "date": "2026-10-27T22:13:11.971Z",
+    "sha256": "8707eef0533987efc5b155d64761eeb6e20793f50b9bd1a68dad1cf4719d0ed8",
+    "limitation": "Upstream branch at retrieval, not an exact version tag."
+  },
+  {
+    "name": "draco",
+    "url": "https://raw.githubusercontent.com/google/draco/main/LICENSE",
+    "file": "docs/licenses/draco-LICENSE.txt",
+    "date": "2026-10-27T22:13:12.139Z",
+    "sha256": "d3709b0fb4b8a94bbb1d02b8a2e484f258b0d9c5c5a01f940391f3fe662cd1a4",
+    "limitation": "Upstream branch at retrieval, not an exact version tag."
+  },
+  {
+    "name": "maath",
+    "url": "https://raw.githubusercontent.com/pmndrs/maath/main/LICENSE",
+    "file": "docs/licenses/maath-LICENSE.txt",
+    "date": "2026-10-27T22:13:12.340Z",
+    "sha256": "f8ed15d0893b846b869dc0290a5aee14c82319a09d3522091ad300a0e5f73291",
+    "limitation": "Upstream branch at retrieval, not an exact version tag."
+  },
+  {
+    "name": "stats",
+    "url": "https://raw.githubusercontent.com/RenaudRohlinger/stats-gl/master/LICENSE",
+    "status": 404
+  }
+]

@@ -1,0 +1,31 @@
+git : warning: in the working copy of '.env.example', LF will be replaced by CRLF the next time Git touches it
+At line:2 char:1
++ git diff --check 2>&1 | Out-File -Encoding utf8 audit/evidence/diff-c ...
++ ~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (warning: in the... Git touches it:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+warning: in the working copy of '.gitignore', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'ASSETS.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'README.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'VERIFICACAO.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'database.rules.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'firebase.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'index.html', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'package-lock.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'package.json', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/Admin.jsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/App.jsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/AuthPages.jsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/Home.jsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/ProductViewer.jsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/catalog.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/firebase.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/main.jsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/model360.jsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/productModel.js', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/store.jsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'src/ui.jsx', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'tests/catalog.test.mjs', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'tests/model.test.mjs', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'vite.config.js', LF will be replaced by CRLF the next time Git touches it
